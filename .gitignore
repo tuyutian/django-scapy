@@ -1,0 +1,13 @@
+build
+Lib
+ContentSpider/static
+ContentSpider/logs
+ContentSpider/items
+*.egg
+.idea
+.vs
+.vscode
+Scripts
+__pycache__
+dbs
+content.json
