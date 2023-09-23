@@ -155,8 +155,8 @@ LOAD_IMAGE = True
 WINDOW_HEIGHT = 900
 WINDOW_WIDTH = 900
 # 内容池接口用于接收扒取的内容
-TARGET = 'http://tiyupc.com/api.php/web/index/scrapyd_content_store'
+TARGET = 'http://xxx/api/scrapyd_content_store'
 # 本地储存路劲
 STORAGE_PATH = 'E:/Company/WorkPlace/system/images/'
 # 图片发送路径
-STORAGE_SERVER_API = 'http://tiyu88.junjs.cn/api.php/web/index/scrayd_image_store'
+STORAGE_SERVER_API = 'http://xxx/api/scrayd_image_store'
